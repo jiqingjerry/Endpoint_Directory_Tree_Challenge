@@ -1,8 +1,11 @@
 # Endpoint - Backend Coding Challenge
 
-## Summary
-
 Recreate a simplied version of `mkdir`, `mv`, and `ls` commands, I've chosen to do it in Python, detailed problem statement and instructions below.
+
+## Instructions and Notes
+
+To run the script:
+`python main.py`
 
 For dev purposes, I created a `DEBUG` flag on line 2. If it is set to `True`, it will show debug print statements.
 
