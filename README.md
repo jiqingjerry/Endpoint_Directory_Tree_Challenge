@@ -1,4 +1,4 @@
-# Endpoint Take Home Assessment
+# Endpoint - Backend Coding Challenge
 
 ## Summary
 
